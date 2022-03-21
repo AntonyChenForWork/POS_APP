@@ -1,4 +1,4 @@
-# testposui
+# POS APP
 
 A new Flutter application.
 
